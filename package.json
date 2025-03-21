@@ -2,7 +2,7 @@
   "name": "vscode-kustomize",
   "displayName": "Vscode Kustomize",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.98.0"
   },
@@ -12,6 +12,7 @@
   "repository": {
     "url": "https://github.com/damhau/vscode-kustomize"
   },
+  "icon": "resources/kustomize.png",
   "publisher": "DHC",
   "activationEvents": [],
   "main": "./out/extension.js",
